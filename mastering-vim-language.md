@@ -57,3 +57,7 @@ These nouns works by combining them with *verbs*
 - Use the more general text object (`iw` rather than `w` even if at beginning of word)
 - Prefer text objects to motions when possible
 - Repeat.vim for plugin repeating
+
+## Relative Numbers
+
+
